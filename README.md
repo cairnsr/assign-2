@@ -60,7 +60,7 @@ The assignment is worth 100 points total:
 * Text: 15 points
   * 5 points: font faces for all parts of the page (approximately) match the mocks
   * 5 points: text alignment and indentation matches the mocks
-  * 15 points: all text sizes and weights match the mocks
+  * 5 points: all text sizes and weights match the mocks
 
 * Layout: 25 points
   * 10 points: sizes of major components (header, nav, "twits", buttons, etc.) (approximately) match the mocks
