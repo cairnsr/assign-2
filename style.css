@@ -3,5 +3,10 @@
  */
 
 .site-title {
- background-color: blue; 
+ background-color: blue;
+ padding: 2px;
+ flex-grow: 1;
+ margin: 2px 2px;
+ border: 5px solid black;
+ 
 }
